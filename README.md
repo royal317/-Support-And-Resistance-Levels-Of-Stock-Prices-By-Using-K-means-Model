@@ -19,6 +19,8 @@ data (in a day) of a foreign company, namely Amazon (AMZN), can be accessed for
 free at Yahoo Finance through the yfinance package integrated in the Python 
 language. The period selected for the test is June 1, 2023 to June 2, 2023
 
+![image](https://github.com/royal317/-Support-And-Resistance-Levels-Of-Stock-Prices-By-Using-K-means-Model/assets/152999544/6017b620-46ed-49f4-80bd-27e23d6232b2)
+
 #  CONCLUSION
 It can be seen that the application of the K-Means unsupervised machine learning 
 algorithm in determining the given support/resistance levels has produced unexpected 
